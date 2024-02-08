@@ -47,7 +47,9 @@ div{
     div{
         display: inline-block;
         width: 45vw;
-        height: 30vh;
+    }
+    img{
+        max-height: 30vh;
     }
 }
 
@@ -56,7 +58,6 @@ div{
     div{
         display: inline-block;
         width: 30vw;
-        height: 30vh;
     }
 }
 
